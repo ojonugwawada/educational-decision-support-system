@@ -19,7 +19,7 @@ This predictive approach can be adapted for:
 - Visualization: Correlation heatmaps, histograms, lollipop charts
 
 ## 🗂️ Files Included
-- `The development of Python software to address a supervised learning challenge (1).ipynb`: Jupyter notebook containing the full code
+- `The development of Python software to address a supervised learning challenge.ipynb`: Jupyter notebook containing the full code
 - `The development of Python software to address a supervised learning challenge.pdf`: Comprehensive project report
 
 ## 🔍 Analysis Workflow
