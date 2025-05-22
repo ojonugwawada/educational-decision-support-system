@@ -1,6 +1,7 @@
-# 📘 Development of Python Software to Address a Supervised Learning Challenge
-
-This project implements a supervised regression model using Python to predict a continuous target variable (`y`) based on 13 numerical features (`x1` to `x13`). It evaluates two machine learning models and provides deep insights using visualization and performance metrics.
+### 🧪 Supervised Learning Regression System  
+Predicts continuous outcomes using structured numerical features and supervised regression models.  
+**Tech:** Linear Regression, Random Forest, Scikit-learn, Plotly | **R² Score:** 0.88, **RMSE:** 2.73  
+Includes cross-validation and feature importance visualization. Deployed to support explainability and performance evaluation.
 
 ## 🎯 Project Objective
 To predict target outcomes from structured input data using regression, while evaluating model accuracy, cross-validation reliability, and feature importance.
